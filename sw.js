@@ -1,8 +1,7 @@
-const CACHE_NAME = 'jizhang-pwa-0.8.1';
+const CACHE_NAME = 'jizhang-pwa-0.8.2';
 const APP_ASSETS = [
   "/",
-  "/_expo/static/js/web/index-0e72a30000602c2bbb52ba15bac22bda.js",
-  "/_expo/static/js/web/index-b5d62dee3a3943ac618a7c17d58e46b5.js",
+  "/_expo/static/js/web/index-d681e3426a1c16d6d8871517e87e432a.js",
   "/favicon.ico",
   "/icon-180.png",
   "/icon-512.png",
